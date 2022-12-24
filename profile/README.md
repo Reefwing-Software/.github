@@ -1,4 +1,4 @@
-# About Me
+# Reefwing Software
 
  David Such is an embedded systems engineer. He is also a Director at Kintarla Pty Ltd, trading as [Reefwing Software](https://www.reefwing.com.au) which is an IoT and mobile app development company. 
  
