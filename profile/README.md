@@ -1,8 +1,8 @@
 # Reefwing Software
 
-[Reefwing Software](https://www.reefwing.com.au/) develops software for embedded systems, IOT and mobile. 
+[Reefwing Software](https://www.reefwing.com.au/) develops software for embedded systems, IoT and mobile. 
  
-They also deliver STEM training courses, including IoT, Robotics, Drones, Raspberry Pi, Arduino, Python, Lua, Objective C, Swift and After Effects.
+They also deliver STEM training courses, including IoT, Robotics, Artificial Intelligence, Machine Learning, Drones, Raspberry Pi, Arduino, Python, Lua, Objective C, Swift and After Effects.
 
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
