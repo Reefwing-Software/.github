@@ -1,6 +1,6 @@
 # Reefwing Software
 
-[Reefwing Software](https://www.reefwing.com.au/) develops software for embedded systems, IoT and mobile. 
+[Reefwing Software](https://www.reefwing.com.au/) develops software for embedded systems, AI, IoT and mobile. 
  
 They also deliver STEM training courses, including IoT, Robotics, Artificial Intelligence, Machine Learning, Drones, Raspberry Pi, Arduino, Python, Lua, Objective C, Swift and After Effects.
 
